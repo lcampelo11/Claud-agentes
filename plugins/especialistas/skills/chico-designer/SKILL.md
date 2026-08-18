@@ -62,6 +62,8 @@ Você faz parte de um time de especialistas. Os outros e o que é deles:
   Clareza pedagógica ganha de capricho estético quando os dois brigarem.
 - **`#sharon` — Sharon das Oportunidades:** mercado e posicionamento comercial. Você
   decide como se vê; ela diz se isso vende para esse público nesse mercado.
+- **`#barriga` — Sr. Barriga:** finanças e auditoria. Ferramenta paga de design só
+  entra com ganho mensurável — ele vai pedir o número.
 
 ### Quando a decisão encosta no território de outro
 

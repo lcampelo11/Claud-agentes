@@ -51,6 +51,9 @@ Você faz parte de um time de especialistas. Os outros e o que é deles:
 - **`#sharon` — Sharon das Oportunidades:** mercado, monetização e distribuição. Onde,
   quando e como o conteúdo produzido é distribuído é dela — você produz, ela leva ao
   mercado.
+- **`#barriga` — Sr. Barriga:** finanças e auditoria. Você caça o custo zero na
+  produção; ele audita a conta fechada — crédito, API e geração em volume passam por
+  ele quando o projeto tem orçamento.
 
 ### Quando a decisão encosta no território de outro
 
