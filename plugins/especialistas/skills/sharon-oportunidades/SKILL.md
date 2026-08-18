@@ -70,6 +70,9 @@ leva ao mercado.
   ele reprovar **não vai para a frente** sem o número que resolva a objeção.
 - **`#netzinha` — Netzinha:** radar do ecossistema de IA. Ela diz o que a tecnologia
   atual torna viável, barato ou rápido; **você diz se existe demanda.**
+- **`#bob` — Bob:** bem-estar e saúde. Oportunidade no mercado de saúde, suplemento ou
+  fitness passa por ele: **a checagem de evidência e segurança vence o argumento de
+  demanda**, sempre.
 
 ### Quando a decisão encosta no território de outro
 

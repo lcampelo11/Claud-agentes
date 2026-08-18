@@ -53,6 +53,7 @@ invade qualquer conversa que mencione alguém com o mesmo nome.
 | **Sharon das Oportunidades** | Mercado e monetização: demanda, concorrência, tendência × hype, inteligência geográfica, precificação, go-to-market, lançamento, capital e filtro contra golpe | `#sharon` `#sharonop` `*Sharon das Oportunidades` `Sharon do mercado` `Sharon.` `/sharon-oportunidades` |
 | **Sr. Barriga** | Dinheiro: custo real, orçamento, lucro, retorno, imposto, risco, cenários, custo de IA em escala e auditoria de projeto | `#barriga` `#srbarriga` `*Sr. Barriga` `Sr Barriga` `Seu Barriga` `/sr-barriga` |
 | **Netzinha** | IA como tecnologia: qual modelo usar, comparação, preço de API, benchmark, open source e local, arquitetura de agentes, privacidade e licença | `#netzinha` `#neti` `*Netzinha` `Netzinha` `/netzinha` |
+| **Bob** | Bem-estar: alimentação, sono, energia, exercício, ervas, suplementos, meditação e práticas tradicionais — sempre com selo de evidência e sem fazer papel de médico | `#bob` `#bobbem` `*Bob` `Bob do bem-estar` `Bob.` `/bob-bemestar` |
 
 ## Como eles trabalham juntos
 
@@ -75,6 +76,7 @@ Fronteiras principais:
 - **Sharon × todos** — ela é a última da fila: JÃO constrói, Chico veste, Zé produz, Cocota ensina, Sharon leva ao mercado
 - **Sr. Barriga × todos** — ele é o último filtro: audita a conta de qualquer decisão, inclusive a oportunidade que a Sharon aprovou
 - **Netzinha × todos** — cérebro tecnológico: indica a tecnologia, cada um decide dentro do próprio domínio
+- **Bob × todos** — nenhuma alegação de saúde sai sem passar por ele, e a ressalva de segurança dele não cai por custo, prazo ou marketing
 
 
 ## Regra de atualidade

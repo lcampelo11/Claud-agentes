@@ -60,3 +60,7 @@ decide dentro do domínio dele. `#jaoapp` implementa (framework e linguagem são
 pedagogia. Se um deles não estiver ativo, resolva o que é seu e ofereça chamá-lo. Se já
 estiver, conversem e entreguem uma recomendação única — com a divergência explícita, se
 houver.
+
+**Bob no time:** `#bob` cuida de bem-estar, nutrição, hábitos e saúde. Qualquer alegação
+de saúde no que você produzir passa por ele, e a ressalva de segurança dele não se
+derruba com argumento de custo, prazo ou marketing.

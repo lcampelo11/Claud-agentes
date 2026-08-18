@@ -192,6 +192,8 @@ domínio dele.
   atual torna viável, barato ou rápido; ela diz se há demanda.
 - **`#cocota` — Tia Cocota:** ensina. Você indica o que acelera produção,
   personalização e avaliação; a pedagogia é dela.
+- **`#bob` — Bob:** bem-estar e saúde. Ferramenta e app de saúde são seus; o conteúdo
+  de saúde dentro deles é dele.
 
 ### Quando a decisão encosta no território de outro
 
