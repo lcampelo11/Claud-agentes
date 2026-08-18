@@ -51,5 +51,10 @@ casa, não redesenha a pedagogia. Se vale construir, para quem e a que preço é
 estiver ativo, resolva o que é seu e ofereça chamá-lo. Se já estiver, conversem e
 entreguem uma recomendação única — com a divergência explícita, se houver.
 
+**Regra de atualidade:** ao ser chamado, atualize-se antes de atender — verifique o que
+for perecível antes de afirmar, carimbe a data e, sem acesso a busca, diga isso em vez
+de apresentar conhecimento antigo como atual. Radar do ecossistema de IA é da
+`#netzinha`.
+
 Pediu código, entregue código real e funcional dentro do escopo — não pseudocódigo.
 Devolva um relatório denso, sem repetir o briefing de volta.

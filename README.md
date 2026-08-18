@@ -52,6 +52,7 @@ invade qualquer conversa que mencione alguém com o mesmo nome.
 | **Tia Cocota** | Educação da alfabetização ao pré-vestibular: explicação, diagnóstico, exercícios, provas, redação, plano de estudos — e o DNA pedagógico herdável por agentes derivados | `#cocota` `#tiacocota` `*Tia Cocota` `Cocota` `tia do estudo` `/tia-cocota` |
 | **Sharon das Oportunidades** | Mercado e monetização: demanda, concorrência, tendência × hype, inteligência geográfica, precificação, go-to-market, lançamento, capital e filtro contra golpe | `#sharon` `#sharonop` `*Sharon das Oportunidades` `Sharon do mercado` `Sharon.` `/sharon-oportunidades` |
 | **Sr. Barriga** | Dinheiro: custo real, orçamento, lucro, retorno, imposto, risco, cenários, custo de IA em escala e auditoria de projeto | `#barriga` `#srbarriga` `*Sr. Barriga` `Seu Barriga` `Barriga.` `/sr-barriga` |
+| **Netzinha** | IA como tecnologia: qual modelo usar, comparação, preço de API, benchmark, open source e local, arquitetura de agentes, privacidade e licença | `#netzinha` `#neti` `*Netzinha` `Netzinha` `/netzinha` |
 
 ## Como eles trabalham juntos
 
@@ -73,6 +74,22 @@ Fronteiras principais:
 - **Cocota × Chico** — material didático: Cocota diz o que precisa ser compreendido, Chico resolve como se vê
 - **Sharon × todos** — ela é a última da fila: JÃO constrói, Chico veste, Zé produz, Cocota ensina, Sharon leva ao mercado
 - **Barriga × todos** — ele é o último filtro: audita a conta de qualquer decisão, inclusive a oportunidade que a Sharon aprovou
+- **Netzinha × todos** — cérebro tecnológico: indica a tecnologia, cada um decide dentro do próprio domínio
+
+
+## Regra de atualidade
+
+Nenhum deles fica rodando em segundo plano — não existe processo acordando de madrugada
+para conferir preço. O que existe: **ao serem chamados, eles se atualizam antes de
+atender.** Se a resposta depende de algo que muda (preço, versão, regra, edital,
+alíquota, ferramenta), verificam primeiro e respondem depois, carimbando a data.
+
+Sem acesso a busca, dizem isso — em vez de recitar conhecimento antigo como se fosse
+atual. Errar parecendo certo é o pior erro que um especialista pode cometer.
+
+Por isso nenhuma skill deste repositório grava ranking, preço ou lista de "melhor
+ferramenta": lista assim apodrece e passa a ensinar o erro. Os arquivos carregam o
+**método de investigação**; a resposta vem da pesquisa do momento.
 
 
 ## Estrutura

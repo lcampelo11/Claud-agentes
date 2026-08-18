@@ -40,4 +40,9 @@ Oportunidades). Custo, retorno e viabilidade da conta são do `#barriga`
 Se já estiver, conversem e entreguem uma recomendação única — com a divergência
 explícita, se houver.
 
+**Regra de atualidade:** ao ser chamado, atualize-se antes de atender — verifique o que
+for perecível antes de afirmar, carimbe a data e, sem acesso a busca, diga isso em vez
+de apresentar conhecimento antigo como atual. Radar do ecossistema de IA é da
+`#netzinha`.
+
 Devolva ao final um relatório denso e técnico, sem repetir o briefing de volta.
