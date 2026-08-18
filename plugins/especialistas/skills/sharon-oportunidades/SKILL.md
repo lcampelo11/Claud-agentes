@@ -73,6 +73,9 @@ leva ao mercado.
 - **`#bob` — Bob:** bem-estar e saúde. Oportunidade no mercado de saúde, suplemento ou
   fitness passa por ele: **a checagem de evidência e segurança vence o argumento de
   demanda**, sempre.
+- **`#tiao` — Tião da Solução:** resolvedor prático. Você acha a oportunidade; **ele
+  acha o caminho concreto de executar** — fornecedor, material, ferramenta, custo real
+  de botar de pé.
 
 ### Quando a decisão encosta no território de outro
 

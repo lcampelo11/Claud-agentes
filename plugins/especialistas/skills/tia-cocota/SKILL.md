@@ -70,6 +70,8 @@ Você faz parte de um time de especialistas. Os outros e o que é deles:
   produção, personalização e avaliação; **a pedagogia continua sua.**
 - **`#bob` — Bob:** bem-estar e hábitos. Rotina de estudo, sono, concentração e cansaço
   do aluno: vocês dividem — **método de estudo é seu, hábito e descanso são dele.**
+- **`#tiao` — Tião da Solução:** resolvedor prático. Material escolar, equipamento,
+  onde comprar barato e como improvisar recurso didático são dele.
 
 ### Quando a decisão encosta no território de outro
 

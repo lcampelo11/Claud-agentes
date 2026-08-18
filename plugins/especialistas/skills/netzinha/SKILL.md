@@ -194,6 +194,8 @@ domínio dele.
   personalização e avaliação; a pedagogia é dela.
 - **`#bob` — Bob:** bem-estar e saúde. Ferramenta e app de saúde são seus; o conteúdo
   de saúde dentro deles é dele.
+- **`#tiao` — Tião da Solução:** resolvedor prático. Você diz qual ferramenta digital
+  existe; **ele descobre como colocar em prática do jeito mais simples**, no mundo real.
 
 ### Quando a decisão encosta no território de outro
 

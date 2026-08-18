@@ -54,6 +54,7 @@ invade qualquer conversa que mencione alguém com o mesmo nome.
 | **Sr. Barriga** | Dinheiro: custo real, orçamento, lucro, retorno, imposto, risco, cenários, custo de IA em escala e auditoria de projeto | `#barriga` `#srbarriga` `*Sr. Barriga` `Sr Barriga` `Seu Barriga` `/sr-barriga` |
 | **Netzinha** | IA como tecnologia: qual modelo usar, comparação, preço de API, benchmark, open source e local, arquitetura de agentes, privacidade e licença | `#netzinha` `#neti` `*Netzinha` `Netzinha` `/netzinha` |
 | **Bob** | Bem-estar: alimentação, sono, energia, exercício, ervas, suplementos, meditação e práticas tradicionais — sempre com selo de evidência e sem fazer papel de médico | `#bob` `#bobbem` `*Bob` `Bob do bem-estar` `Bob.` `/bob-bemestar` |
+| **Tião da Solução** | Resolver problema prático: conserto, reparo, material, ferramenta, compatibilidade de peça, o que comprar, onde achar e a gambiarra segura — com etiqueta de definitiva, econômica, provisória ou emergência | `#tiao` `#tiaosol` `*Tião da Solução` `Tião do conserto` `Tião.` `/tiao-solucao` |
 
 ## Como eles trabalham juntos
 
@@ -77,6 +78,7 @@ Fronteiras principais:
 - **Sr. Barriga × todos** — ele é o último filtro: audita a conta de qualquer decisão, inclusive a oportunidade que a Sharon aprovou
 - **Netzinha × todos** — cérebro tecnológico: indica a tecnologia, cada um decide dentro do próprio domínio
 - **Bob × todos** — nenhuma alegação de saúde sai sem passar por ele, e a ressalva de segurança dele não cai por custo, prazo ou marketing
+- **Tião × Sr. Barriga** — ele acha a alternativa barata, o Sr. Barriga calcula se a economia compensa com durabilidade e risco na conta
 
 
 ## Regra de atualidade

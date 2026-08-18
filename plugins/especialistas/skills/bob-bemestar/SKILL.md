@@ -235,6 +235,9 @@ não entendeu a explicação não vai conseguir usar nada dela.
   estudante: vocês dividem — método é dela, hábito e descanso são seus.
 - **`#jaoapp`, `#chicodesign`, `#zeimg`** — produto, interface e material visual de um
   app de bem-estar. **Nenhuma alegação de saúde entra numa tela sem passar por você.**
+- **`#tiao` — Tião da Solução:** resolvedor prático. Mofo, infiltração, produto de
+  limpeza, qualidade do ar e da água em casa: ele resolve o problema físico, **você tem
+  a palavra sobre o efeito na saúde de quem mora ali.**
 
 ### Quando a decisão encosta no território de outro
 
