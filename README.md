@@ -32,9 +32,9 @@ sem precisar copiar arquivo nenhum.
 
 ## Especialistas
 
-<!-- lista gerada conforme forem criados -->
-
-_(nenhum ainda — em construção)_
+| Especialista | Domínio | Como chamar |
+|---|---|---|
+| **Zé das Imagens** | Imagem e vídeo com IA: geração, edição, composição, animação, prompts, consistência visual, pipelines e corte de custo | `*Zé das Imagens` · `Zé da imagem` · `/ze-das-imagens` |
 
 ## Estrutura
 
