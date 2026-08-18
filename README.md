@@ -27,14 +27,26 @@ sem precisar copiar arquivo nenhum.
 
 ## Como chamar
 
-- **Por nome:** "chama o `<nome>`" ou `/<nome>`
-- **Automático:** ao encontrar um assunto que bate com a descrição do especialista
+Padrão válido para todo o time — quatro formas, todas equivalentes:
+
+| Forma | Exemplo | Uso |
+|---|---|---|
+| `#slug` | `#zeimg` | **canônica** — token único, imune a homônimo |
+| `*Nome` | `*Zé das Imagens` | chamada por nome, com marcador |
+| Nome + domínio | `Zé da imagem`, `Zé dos vídeos` | fala natural |
+| `/slug` | `/ze-das-imagens` | comando no Claude Code |
+
+Além disso, cada especialista entra sozinho quando o assunto é claramente dele.
+
+**Regra anti-homônimo:** o primeiro nome sozinho (`Zé`, `João`) nunca aciona ninguém.
+Precisa de `#`, de `*` ou de um qualificador de domínio ao lado — senão o especialista
+invade qualquer conversa que mencione alguém com o mesmo nome.
 
 ## Especialistas
 
-| Especialista | Domínio | Como chamar |
+| Especialista | Domínio | Apelidos |
 |---|---|---|
-| **Zé das Imagens** | Imagem e vídeo com IA: geração, edição, composição, animação, prompts, consistência visual, pipelines e corte de custo | `*Zé das Imagens` · `Zé da imagem` · `/ze-das-imagens` |
+| **Zé das Imagens** | Imagem e vídeo com IA: geração, edição, composição, animação, prompts, consistência visual, pipelines e corte de custo | `#zeimg` `#ze` `#zé` `*Zé das Imagens` `Zé da imagem` `Zé imagem` `Zé img` `Zé dos vídeos` `Zé do vídeo` `Zé.` `/ze-das-imagens` |
 
 ## Estrutura
 
