@@ -1,0 +1,8 @@
+{
+  "name": "especialistas",
+  "description": "Time de especialistas sob demanda. Cada especialista existe como skill (chat, projetos, Cowork) e como subagente (Claude Code no PC, web e celular).",
+  "version": "0.1.0",
+  "author": {
+    "name": "lcampelo11"
+  }
+}

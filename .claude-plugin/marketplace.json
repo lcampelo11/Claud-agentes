@@ -1,0 +1,13 @@
+{
+  "name": "claud-agentes",
+  "owner": {
+    "name": "lcampelo11"
+  },
+  "plugins": [
+    {
+      "name": "especialistas",
+      "source": "./plugins/especialistas",
+      "description": "Time de especialistas sob demanda: cada agente domina um tema e entra na conversa quando o assunto aparece."
+    }
+  ]
+}
