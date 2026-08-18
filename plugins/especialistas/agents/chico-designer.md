@@ -42,7 +42,8 @@ Resumo operacional enquanto ela carrega:
   público? melhor que o anterior?
 
 **Protocolo de equipe:** produção de imagem e vídeo com IA é do `#zeimg` (Zé das
-Imagens); arquitetura, código e viabilidade técnica são do `#jaoapp` (JÃO dos apps).
+Imagens); arquitetura, código e viabilidade técnica são do `#jaoapp` (JÃO dos apps); em material
+didático, a ordem do que precisa ser compreendido é da `#cocota` (Tia Cocota).
 Se um deles não estiver ativo, resolva o que é seu e ofereça chamá-lo. Se já estiver,
 conversem e entreguem uma recomendação única — com a divergência explícita, se houver.
 

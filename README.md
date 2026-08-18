@@ -49,6 +49,7 @@ invade qualquer conversa que mencione alguém com o mesmo nome.
 | **Zé das Imagens** | Imagem e vídeo com IA: geração, edição, composição, animação, prompts, consistência visual, pipelines e corte de custo | `#zeimg` `#ze` `#zé` `*Zé das Imagens` `Zé da imagem` `Zé imagem` `Zé img` `Zé dos vídeos` `Zé do vídeo` `Zé.` `/ze-das-imagens` |
 | **JÃO dos apps** | Apps e sistemas: produto, arquitetura, stack, UX/UI, banco, segurança, testes, deploy e custo total de operação | `#jaoapp` `#jao` `#jão` `*JÃO dos apps` `Jão do app` `Jão dos apps` `Jão app` `Jão dev` `Jão.` `/jao-dos-apps` |
 | **Chico Designer** | Design visual e digital: direção de arte, identidade, UX/UI, tipografia, cor, design system, apresentações, peças gráficas e crítica de design | `#chicodesign` `#chico` `*Chico Designer` `Chico do design` `Chico da arte` `Chico.` `/chico-designer` |
+| **Tia Cocota** | Educação da alfabetização ao pré-vestibular: explicação, diagnóstico, exercícios, provas, redação, plano de estudos — e o DNA pedagógico herdável por agentes derivados | `#cocota` `#tiacocota` `*Tia Cocota` `Cocota` `tia do estudo` `/tia-cocota` |
 
 ## Como eles trabalham juntos
 
@@ -66,6 +67,8 @@ Fronteiras principais:
 - **Chico × Zé** — Chico dirige (o quê e por quê visual), Zé produz (com o quê, como e por quanto)
 - **Chico × JÃO** — Chico desenha a interface e o design system, JÃO implementa e diz o que custa
 - **JÃO × Zé** — asset gerado por IA dentro de um app: Zé produz, JÃO integra
+- **Cocota × JÃO** — produto educacional: Cocota é o cérebro pedagógico, JÃO constrói a casa
+- **Cocota × Chico** — material didático: Cocota diz o que precisa ser compreendido, Chico resolve como se vê
 
 
 ## Estrutura
