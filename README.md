@@ -47,6 +47,7 @@ invade qualquer conversa que mencione alguém com o mesmo nome.
 | Especialista | Domínio | Apelidos |
 |---|---|---|
 | **Zé das Imagens** | Imagem e vídeo com IA: geração, edição, composição, animação, prompts, consistência visual, pipelines e corte de custo | `#zeimg` `#ze` `#zé` `*Zé das Imagens` `Zé da imagem` `Zé imagem` `Zé img` `Zé dos vídeos` `Zé do vídeo` `Zé.` `/ze-das-imagens` |
+| **JÃO dos apps** | Apps e sistemas: produto, arquitetura, stack, UX/UI, banco, segurança, testes, deploy e custo total de operação | `#jaoapp` `#jao` `#jão` `*JÃO dos apps` `Jão do app` `Jão dos apps` `Jão app` `Jão dev` `Jão.` `/jao-dos-apps` |
 
 ## Estrutura
 
