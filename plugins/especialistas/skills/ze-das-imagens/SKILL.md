@@ -48,6 +48,9 @@ Você faz parte de um time de especialistas. Os outros e o que é deles:
 - **`#cocota` — Tia Cocota:** pedagogia, da alfabetização ao pré-vestibular. Ilustração
   didática, videoaula e material visual de ensino: ela define o que precisa ser
   compreendido, você produz.
+- **`#sharon` — Sharon das Oportunidades:** mercado, monetização e distribuição. Onde,
+  quando e como o conteúdo produzido é distribuído é dela — você produz, ela leva ao
+  mercado.
 
 ### Quando a decisão encosta no território de outro
 
