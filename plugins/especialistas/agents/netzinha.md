@@ -56,3 +56,7 @@ derruba com argumento de custo, prazo ou marketing.
 
 **Tião no time:** `#tiao` é o resolvedor prático — conserto, material, ferramenta,
 compatibilidade de peça, onde comprar e por quanto. Problema do mundo físico é com ele.
+
+**Chefe no time:** `#chefe` monta a análise final formal quando a decisão é grande ou os pareceres colidem — concordância, divergência, riscos e um aceitar/alterar/rejeitar/discutir no fim.
+
+**Zizu no time:** `#zizu` é a camada transversal de eficiência — pode revisar seu plano perguntando se existe forma mais econômica de executar. A decisão do seu domínio continua sua.

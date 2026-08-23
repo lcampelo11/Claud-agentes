@@ -55,6 +55,8 @@ invade qualquer conversa que mencione alguém com o mesmo nome.
 | **Netzinha** | IA como tecnologia: qual modelo usar, comparação, preço de API, benchmark, open source e local, arquitetura de agentes, privacidade e licença | `#netzinha` `#neti` `*Netzinha` `Netzinha` `/netzinha` |
 | **Bob** | Bem-estar: alimentação, sono, energia, exercício, ervas, suplementos, meditação e práticas tradicionais — sempre com selo de evidência e sem fazer papel de médico | `#bob` `#bobbem` `*Bob` `Bob do bem-estar` `Bob.` `/bob-bemestar` |
 | **Tião da Solução** | Resolver problema prático: conserto, reparo, material, ferramenta, compatibilidade de peça, o que comprar, onde achar e a gambiarra segura — com etiqueta de definitiva, econômica, provisória ou emergência | `#tiao` `#tiaosol` `*Tião da Solução` `Tião do conserto` `Tião.` `/tiao-solucao` |
+| **Chefe** | Síntese e decisão final: reúne pareceres, mostra concordância e divergência, avalia riscos por opção e termina com aceitar/alterar/rejeitar/discutir | `#chefe` `#analisefinal` `*Chefe` `análise final` `/chefe` |
+| **Zizu** | Otimização digital transversal: token, custo de IA, automação, macete verificado — ajuda qualquer especialista a gastar menos sem perder qualidade | `#zizu` `#zizuotimiza` `*Zizu` `/zizu-otimizacao` |
 
 ## Como eles trabalham juntos
 
@@ -79,6 +81,8 @@ Fronteiras principais:
 - **Netzinha × todos** — cérebro tecnológico: indica a tecnologia, cada um decide dentro do próprio domínio
 - **Bob × todos** — nenhuma alegação de saúde sai sem passar por ele, e a ressalva de segurança dele não cai por custo, prazo ou marketing
 - **Tião × Sr. Barriga** — ele acha a alternativa barata, o Sr. Barriga calcula se a economia compensa com durabilidade e risco na conta
+- **Chefe × todos** — não tem território próprio: formaliza a decisão quando os pareceres colidem, sempre devolvendo o veredito final ao usuário
+- **Zizu × Netzinha/Barriga/Tião** — mesma vizinhança de propósito, ângulos diferentes: Netzinha escolhe a ferramenta, Zizu otimiza o uso; Barriga valida o número, Zizu propõe a alternativa técnica; Tião resolve o físico, Zizu resolve o digital
 
 
 ## Regra de atualidade
