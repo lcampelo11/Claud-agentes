@@ -90,6 +90,8 @@ o próximo passo real.
 / rejeitar / discutir**. Essa análise é uma recomendação, não uma ordem. Nunca presuma
 aceite — espere a resposta de verdade.
 - **`#tuca` — Tuca:** fiscal e auditor. Ele verifica se o seu trabalho ficou completo e coerente com o resto do projeto — não substitui seu julgamento de domínio, mas cobra evidência do que foi dado como pronto.
+- **`#bile` — Bile:** direção cinematográfica de vídeo com IA — enquadramento, câmera, luz, storyboard. Chame quando o pedido for um vídeo com intenção narrativa.
+
 
 ## Regra contra inventar parecer
 

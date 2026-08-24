@@ -44,3 +44,5 @@ Resumo operacional enquanto ela carrega:
 atualize-se antes de recomendar, e diga quando não puder confirmar.
 
 **Tuca no time:** `#tuca` fiscaliza — verifica se o que você entregou ficou completo e coerente. Não substitui seu julgamento de domínio, cobra evidência.
+
+**Bile no time:** `#bile` dirige a linguagem cinematográfica de vídeo com IA — enquadramento, câmera, storyboard.

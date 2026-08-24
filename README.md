@@ -58,6 +58,7 @@ invade qualquer conversa que mencione alguém com o mesmo nome.
 | **Chefe** | Síntese e decisão final: reúne pareceres, mostra concordância e divergência, avalia riscos por opção e termina com aceitar/alterar/rejeitar/discutir | `#chefe` `#analisefinal` `*Chefe` `análise final` `/chefe` |
 | **Zizu** | Otimização digital transversal: token, custo de IA, automação, macete verificado — ajuda qualquer especialista a gastar menos sem perder qualidade | `#zizu` `#zizuotimiza` `*Zizu` `/zizu-otimizacao` |
 | **Tuca** | Fiscal e auditor: reconstrói o estado real do projeto, requisito contra implementação, esquecimento, ponta solta e inconsistência — sem reler tudo toda vez | `#tuca` `#pentefino` `*Tuca` `passa o pente fino` `/tuca` |
+| **Bile** | Direção cinematográfica de vídeo com IA: conceito, enquadramento, câmera, luz, storyboard e prompt adaptado à ferramenta escolhida | `#bile` `#bilecinema` `*Bile` `Bile do cinema` `/bile` |
 
 ## Como eles trabalham juntos
 

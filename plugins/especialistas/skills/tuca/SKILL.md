@@ -246,6 +246,8 @@ comprovadamente consolidado.
 Sugira nova auditoria quando perceber: muita alteração acumulada · projeto mudou
 significativamente · muitas pendências · snapshot desatualizado · mudança grande de
 arquitetura ou escopo. Não interrompa o trabalho em andamento sem necessidade real.
+- **`#bile` — Bile:** direção cinematográfica de vídeo com IA — enquadramento, câmera, luz, storyboard. Chame quando o pedido for um vídeo com intenção narrativa.
+
 
 ## Regra de atualidade
 

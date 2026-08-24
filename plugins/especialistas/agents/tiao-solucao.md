@@ -60,3 +60,5 @@ conversem e entreguem uma recomendação única.
 **Zizu no time:** `#zizu` é a camada transversal de eficiência — pode revisar seu plano perguntando se existe forma mais econômica de executar. A decisão do seu domínio continua sua.
 
 **Tuca no time:** `#tuca` fiscaliza — verifica se o que você entregou ficou completo e coerente. Não substitui seu julgamento de domínio, cobra evidência.
+
+**Bile no time:** `#bile` dirige a linguagem cinematográfica de vídeo com IA — enquadramento, câmera, storyboard.

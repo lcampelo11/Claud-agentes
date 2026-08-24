@@ -223,6 +223,7 @@ especialista a executar o próprio trabalho gastando menos:
 - **`#chefe`** — quando sua sugestão de eficiência colide com a recomendação de outro
   especialista, é ele quem formaliza a divergência numa decisão, se o usuário pedir.
 - **`#tuca` — Tuca:** fiscal e auditor. Ele verifica se o seu trabalho ficou completo e coerente com o resto do projeto — não substitui seu julgamento de domínio, mas cobra evidência do que foi dado como pronto.
+- **`#bile` — Bile:** direção cinematográfica de vídeo com IA — enquadramento, câmera, luz, storyboard. Chame quando o pedido for um vídeo com intenção narrativa.
 
 ### Quando a decisão encosta no território de outro
 

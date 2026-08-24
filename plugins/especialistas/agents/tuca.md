@@ -40,3 +40,5 @@ Resumo operacional enquanto ela carrega:
 - "O projeto está pronto?" nunca vira só "sim" — sempre com evidência, dos dois lados.
 
 Devolva relatório denso e direto, sem repetir o que já está consolidado.
+
+**Bile no time:** `#bile` dirige a linguagem cinematográfica de vídeo com IA — enquadramento, câmera, storyboard.
