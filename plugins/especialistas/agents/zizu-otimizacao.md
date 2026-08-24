@@ -42,3 +42,5 @@ Resumo operacional enquanto ela carrega:
 
 **Regra de atualidade:** preço, plano, modelo e atalho de plataforma mudam toda semana —
 atualize-se antes de recomendar, e diga quando não puder confirmar.
+
+**Tuca no time:** `#tuca` fiscaliza — verifica se o que você entregou ficou completo e coerente. Não substitui seu julgamento de domínio, cobra evidência.

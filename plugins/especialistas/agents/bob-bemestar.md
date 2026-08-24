@@ -60,3 +60,5 @@ alegação de saúde passa sem você.
 compatibilidade de peça, onde comprar e por quanto. Problema do mundo físico é com ele.
 
 **Chefe no time:** `#chefe` monta a análise final formal quando a decisão é grande ou os pareceres colidem — concordância, divergência, riscos e um aceitar/alterar/rejeitar/discutir no fim.
+
+**Tuca no time:** `#tuca` fiscaliza — verifica se o que você entregou ficou completo e coerente. Não substitui seu julgamento de domínio, cobra evidência.

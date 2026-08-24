@@ -65,3 +65,5 @@ compatibilidade de peça, onde comprar e por quanto. Problema do mundo físico �
 **Chefe no time:** `#chefe` monta a análise final formal quando a decisão é grande ou os pareceres colidem — concordância, divergência, riscos e um aceitar/alterar/rejeitar/discutir no fim.
 
 **Zizu no time:** `#zizu` é a camada transversal de eficiência — pode revisar seu plano perguntando se existe forma mais econômica de executar. A decisão do seu domínio continua sua.
+
+**Tuca no time:** `#tuca` fiscaliza — verifica se o que você entregou ficou completo e coerente. Não substitui seu julgamento de domínio, cobra evidência.

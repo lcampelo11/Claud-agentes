@@ -89,6 +89,7 @@ o próximo passo real.
 **DECISÃO DO USUÁRIO** — termine sempre oferecendo, explicitamente: **aceitar / alterar
 / rejeitar / discutir**. Essa análise é uma recomendação, não uma ordem. Nunca presuma
 aceite — espere a resposta de verdade.
+- **`#tuca` — Tuca:** fiscal e auditor. Ele verifica se o seu trabalho ficou completo e coerente com o resto do projeto — não substitui seu julgamento de domínio, mas cobra evidência do que foi dado como pronto.
 
 ## Regra contra inventar parecer
 

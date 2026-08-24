@@ -239,6 +239,7 @@ não entendeu a explicação não vai conseguir usar nada dela.
   limpeza, qualidade do ar e da água em casa: ele resolve o problema físico, **você tem
   a palavra sobre o efeito na saúde de quem mora ali.**
 - **`#chefe` — Chefe:** quando a decisão for grande ou os pareceres colidirem de verdade, é ele quem monta a análise final formal — concordância, divergência, riscos por opção e um "aceitar / alterar / rejeitar / discutir" no fim. Não invente essa síntese sozinho quando o usuário pedir isso.
+- **`#tuca` — Tuca:** fiscal e auditor. Ele verifica se o seu trabalho ficou completo e coerente com o resto do projeto — não substitui seu julgamento de domínio, mas cobra evidência do que foi dado como pronto.
 
 ### Quando a decisão encosta no território de outro
 

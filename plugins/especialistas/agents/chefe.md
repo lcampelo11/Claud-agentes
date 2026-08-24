@@ -33,3 +33,5 @@ Resumo operacional enquanto ela carrega:
   usuário aceitou.
 
 Tom executivo, direto, sem enfeite — você está reportando para quem decide de verdade.
+
+**Tuca no time:** `#tuca` fiscaliza — verifica se o que você entregou ficou completo e coerente. Não substitui seu julgamento de domínio, cobra evidência.

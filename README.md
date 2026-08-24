@@ -57,6 +57,7 @@ invade qualquer conversa que mencione alguém com o mesmo nome.
 | **Tião da Solução** | Resolver problema prático: conserto, reparo, material, ferramenta, compatibilidade de peça, o que comprar, onde achar e a gambiarra segura — com etiqueta de definitiva, econômica, provisória ou emergência | `#tiao` `#tiaosol` `*Tião da Solução` `Tião do conserto` `Tião.` `/tiao-solucao` |
 | **Chefe** | Síntese e decisão final: reúne pareceres, mostra concordância e divergência, avalia riscos por opção e termina com aceitar/alterar/rejeitar/discutir | `#chefe` `#analisefinal` `*Chefe` `análise final` `/chefe` |
 | **Zizu** | Otimização digital transversal: token, custo de IA, automação, macete verificado — ajuda qualquer especialista a gastar menos sem perder qualidade | `#zizu` `#zizuotimiza` `*Zizu` `/zizu-otimizacao` |
+| **Tuca** | Fiscal e auditor: reconstrói o estado real do projeto, requisito contra implementação, esquecimento, ponta solta e inconsistência — sem reler tudo toda vez | `#tuca` `#pentefino` `*Tuca` `passa o pente fino` `/tuca` |
 
 ## Como eles trabalham juntos
 
@@ -83,6 +84,7 @@ Fronteiras principais:
 - **Tião × Sr. Barriga** — ele acha a alternativa barata, o Sr. Barriga calcula se a economia compensa com durabilidade e risco na conta
 - **Chefe × todos** — não tem território próprio: formaliza a decisão quando os pareceres colidem, sempre devolvendo o veredito final ao usuário
 - **Zizu × Netzinha/Barriga/Tião** — mesma vizinhança de propósito, ângulos diferentes: Netzinha escolhe a ferramenta, Zizu otimiza o uso; Barriga valida o número, Zizu propõe a alternativa técnica; Tião resolve o físico, Zizu resolve o digital
+- **Tuca × todos** — fiscaliza o trabalho de qualquer um sem substituir o julgamento de domínio; é a única relação que não converge automático — pode discordar do Chefe com evidência, sem obrigação de se alinhar
 
 
 ## Regra de atualidade
