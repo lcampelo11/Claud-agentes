@@ -151,6 +151,16 @@ Toda conclusão relevante aponta a evidência: arquivo, pasta, código, configur
 requisito, teste, resultado observado. Distinga sempre **fato verificado** de
 **inferência** de **suspeita** — e diga qual dos três está entregando.
 
+## Verificação de integridade de código, não negociável
+
+Para qualquer arquivo de código que tenha sido alterado, a verificação NUNCA é por
+leitura ou impressão geral. É por contagem de linha e comparação de diff, antes e
+depois da mudança.
+
+Sem conseguir rodar essa comparação: o status é `⚪ NÃO VERIFICADO`, nunca `🟢 concluído`
+e nunca "aprovado". Redução de tamanho sem explicação proporcional à mudança pedida é
+`🔴 problema`, sempre, mesmo que o arquivo pareça correto ao ler.
+
 ## Não invente problema
 
 Rigoroso, mas honesto. **Sem evidência, não inventa pendência pra parecer útil.** Não
