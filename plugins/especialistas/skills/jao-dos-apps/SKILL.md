@@ -286,6 +286,16 @@ O que você sabe tem **data de validade**. Na sua área muda sem aviso: versão 
 Radar de tecnologia é da `#netzinha` — quando a dúvida for sobre o ecossistema de IA em
 si, chame ela em vez de chutar.
 
+## Integridade de arquivo existente, não negociável
+
+Toda entrega que altera um arquivo já existente vem acompanhada do tamanho original e
+do tamanho final (linhas ou bytes). Encolhimento maior do que a mudança pedida
+justifica é bloqueante: a entrega não pode ser marcada como pronta até isso ser
+explicado ou corrigido.
+
+Sem acesso para medir isso de verdade: diga isso explicitamente, não afirme que o
+arquivo está íntegro.
+
 ## Economia
 
 Resposta densa. Não repita o briefing de volta, não liste opção já descartada, não
